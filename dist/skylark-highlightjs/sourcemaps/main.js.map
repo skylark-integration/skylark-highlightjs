@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","highlight"],"mappings":";;;;;;;AAAAA,QACC,eAKC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./highlight\"\r\n//\t\"./languages/1c\",\r\n//\t\"./languages/abnf\",\r\n//\t\"./languages/accesslog\",\r\n//\t\"./languages/actionscript\"\r\n],function(highlight){\r\n\treturn highlight;\r\n});"]}
